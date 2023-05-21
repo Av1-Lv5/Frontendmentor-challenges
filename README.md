@@ -1,7 +1,7 @@
 # Frontendmentor-challenges
 The list of all the Frontendmentor challenges I have completed, with the tech stack used.
 
-> Frontendmentor is a platform offering, some free and paywalled professional designs for frontend developers to create stunning projects to showcase in their portfolios.
+> Frontendmentor is a platform, offering some free and paywalled professional designs for frontend developers to create stunning projects to showcase in their portfolios.
 
 | Challenge | Tech stack | Repo | Live |
 | --- | --- | --- | :-: |
